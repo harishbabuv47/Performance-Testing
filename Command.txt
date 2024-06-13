@@ -1,0 +1,27 @@
+
+
+
+JPet-Store-Registration
+
+jmeter -n -t C:\Users\eutest\Downloads\Testing\JPet-Store-Registration.jmx -l C:\Users\eutest\Downloads\Testing\Results\JPet-Store-Registration_run1.jtl -e -o C:\Users\eutest\Downloads\Testing\Results\Dashboard_JPet-Store-Registration_run1 -j C:\Users\eutest\Downloads\Testing\Results\Logs_JPet-Store-Registration_run1
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+JPet-Store-Create-Order
+
+jmeter -n -t C:\Users\eutest\Downloads\Testing\JPet-Store-Create-Order.jmx -l C:\Users\eutest\Downloads\Testing\Results\JPet-Store-Create-Order_run1.jtl -e -o C:\Users\eutest\Downloads\Testing\Results\Dashboard_JPet-Store-Create-Order_run1 -j C:\Users\eutest\Downloads\Testing\Results\Logs_JPet-Store-Create-Order_run1
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+JPet-Store-View-Order
+
+jmeter -n -t C:\Users\eutest\Downloads\Testing\JPet-Store-View-Order.jmx -l C:\Users\eutest\Downloads\Testing\Results\JPet-Store-View-Order_run1.jtl -e -o C:\Users\eutest\Downloads\Testing\Results\Dashboard_JPet-Store-View-Order_run1 -j C:\Users\eutest\Downloads\Testing\Results\Logs_JPet-Store-View-Order_run1
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
